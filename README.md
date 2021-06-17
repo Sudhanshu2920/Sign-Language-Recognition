@@ -2,7 +2,7 @@
 In this sign language Recognition project we have created a detector,
 which detects alphabets from A to Z and numbers from 1 to 10.
 We have used convolutional neural networks (CNNs) to build and train a
-model which can classify Sign Languages from the images of hands. Our model has achieved a test accuracy of 84.10%.
+model which can classify Sign Languages from the images of hands. Our model has achieved a train accuracy of 96.32%.
 We have used CV to detect palm images from our webcam and then feed that image into our model to detect the sign. 
 
 * You can find the Jupyter Notebook **[here](https://colab.research.google.com/drive/1rE4Cr-GYEhs8qSjL-BkFGa31YibtnWfP)**. 

@@ -1,4 +1,4 @@
-# Sign-Language-Regognition
+# Sign-Language-Recognition
 In this sign language Recognition project we have created a detector,
 which detects alphabets from A to Z and numbers from 1 to 10.
 We have used convolutional neural networks (CNNs) to build and train a
